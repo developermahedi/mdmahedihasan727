@@ -1,6 +1,7 @@
 ![Web Designer & Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/s960x960/240848064_163343912598451_5350819835013936445_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=ysgDADIlSsgAX9kkgQB&_nc_ht=scontent.fdac27-1.fna&oh=1c3747afe3585cb6c4c4829b429a5b80&oe=61305EBD)
 
-### Hi there 👋, I'M Mahedi Hasan
+### Hi there 👋, 
+I'M Mahedi Hasan
 #### Web Designer & Developer
 
 
@@ -8,7 +9,17 @@ I'm Mahedi Hasan, I have an exquisite blend of experience in HTML, CSS, SASS, Bo
 
 My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project and give support for every problem. If need I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials.
 
-Skills:  HTML / CSS  / SASS / JS / REACT/ BOOTSTRAP / WORDPRESS / PHP 
+Good Skills & experience in this language:
+
+✅ React Js
+✅ JavaScript
+✅ PHP
+✅ Mongo DB
+✅ WordPress
+✅ Bootstrap
+✅ HTML
+✅ CSS
+✅ SASS
 
 - 🔭 I’m currently working on freelancer , fiverr 
 - 🌱 I’m currently learning JavaScript 
