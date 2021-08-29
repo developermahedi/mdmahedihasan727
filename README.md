@@ -9,16 +9,24 @@ I'm Mahedi Hasan, I have an exquisite blend of experience in HTML, CSS, SASS, Bo
 
 My goal is to satisfy clients, try to understand what they want for their website, help them from beginning to end the project and give support for every problem. If need I communicate by video or audio conversations to understand the problems and project requirements. After completing the website and projects I give instructions, How they can manage, edit, update, add pages, and post on the website by themselves. if needed I send video tutorials.
 
-Good Skills & experience in this language:
+ 👨‍💻 Good Skills & experience in this language:
 
 ✅ React Js
+
 ✅ JavaScript
+
 ✅ PHP
+
 ✅ Mongo DB
+
 ✅ WordPress
+
 ✅ Bootstrap
+
 ✅ HTML
+
 ✅ CSS
+
 ✅ SASS
 
 - 🔭 I’m currently working on freelancer , fiverr 
