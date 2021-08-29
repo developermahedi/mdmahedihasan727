@@ -11,10 +11,11 @@ My goal is to satisfy clients, try to understand what they want for their websit
 
  👨‍💻 Good Skills & experience in this language:
 
-✅ React Js
-✅ JavaScript
-✅ PHP
-✅ Mongo DB
+✅ React Js 
+
+✅ JavaScript 
+✅ PHP 
+✅ Mongo DB 
 ✅ WordPress
 ✅ Bootstrap
 ✅ HTML/CSS/SASS
