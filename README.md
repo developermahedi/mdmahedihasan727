@@ -12,22 +12,14 @@ My goal is to satisfy clients, try to understand what they want for their websit
  👨‍💻 Good Skills & experience in this language:
 
 ✅ React Js
-
 ✅ JavaScript
-
 ✅ PHP
-
 ✅ Mongo DB
-
 ✅ WordPress
-
 ✅ Bootstrap
-
-✅ HTML
-
-✅ CSS
-
-✅ SASS
+✅ HTML/CSS/SASS
+✅ Photoshop
+✅ Figma
 
 - 🔭 I’m currently working on freelancer , fiverr 
 - 🌱 I’m currently learning JavaScript 
