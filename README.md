@@ -32,4 +32,6 @@ Good Skills & experience in this language:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdmahedihasan727)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahedihasan727&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mdmahedihasan727&show_icons=true&theme=radical)
+
 
