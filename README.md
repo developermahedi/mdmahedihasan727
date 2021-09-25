@@ -1,4 +1,4 @@
-![Web Designer & Developer](https://ibb.co/Kj969Fp)
+![mahedi hasan](https://user-images.githubusercontent.com/78359813/134783716-9e79ff7c-4051-4f9a-bbe4-61e8db4419f5.jpg)
 
 ### Hi there 👋, 
 I'M Mahedi Hasan
