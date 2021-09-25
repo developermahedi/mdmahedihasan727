@@ -1,4 +1,4 @@
-![Web Designer & Developer](https://scontent.fdac27-1.fna.fbcdn.net/v/t39.30808-6/s960x960/241818207_404874800985860_5797495063617435093_n.png?_nc_cat=100&ccb=1-5&_nc_sid=e3f864&_nc_ohc=e6DbULQM91gAX_EtveR&_nc_ht=scontent.fdac27-1.fna&oh=3fc34ed495b44e342727ab0dd9a00ad9&oe=614EF21D)
+![Web Designer & Developer](https://ibb.co/Kj969Fp)
 
 ### Hi there 👋, 
 I'M Mahedi Hasan
